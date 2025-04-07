@@ -1,5 +1,5 @@
 #define NUMBER_OF_BUTTONS       4
-#define BEEP_DURATION_MS        350
+#define BEEP_DURATION_MS        250
 #define NUMBER_OF_MOVES         10
 
 // red, blue, yellow, green
